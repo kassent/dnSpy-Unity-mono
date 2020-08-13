@@ -53,6 +53,7 @@ A few versions have the same hash. `-mbe` = `MonoBleedingEdge` branch (.NET 4.x 
 
 version | git hash
 --------|---------
+3.5.7 | 64c3378a67376d089f8ad6f7b6cad4619fdaefa9
 4.0.0 | 7ec3cabdff850179420727c42bc73a91d1a97a29
 4.0.1 | 7ec3cabdff850179420727c42bc73a91d1a97a29
 4.1.0 | 6232bc3853ea9881fd87db0198486304f0619274
