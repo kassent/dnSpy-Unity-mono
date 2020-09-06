@@ -1,6 +1,6 @@
 This repo contains all files needed to build `mono.dll` & `mono-2.0-bdwgc.dll` with debugging support for Unity.
 
-# NOTE: The dnSpy branch contains missing prebuilt assemblies in the CustomBuilds folder.
+## NOTE: The dnSpy branch contains missing prebuilt assemblies in the CustomBuilds folder.
 
 The `master` branch contains the original files. You have to check out the `dnSpy` branch to build everything. Use VS2017.
 
